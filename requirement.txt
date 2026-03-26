@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+gTTS
+pydub
+openai
+googletrans==4.0.0rc1
